@@ -11,6 +11,17 @@ Linguagens de consulta são usadas para solicitar e recuperar dados de bancos de
 
 Com o editor de consultas ShopifyQL, você consegue visualizar informações aprofundadas sobre o desempenho da sua loja, personalizar suas análises e gerar relatórios sob medida, sem depender apenas dos relatórios padrão **e é aqui que entra o ShopifyQL**.
 
+Para quem utiliza Shopify de forma profissional, reconhecemos o impacto positivo que decisões orientadas por dados têm no crescimento de um negócio. Mas também sabemos que a exploração de dados costuma ser inacessível para quem não possui formação em ciência de dados ou programação. O ShopifyQL e o editor de relatórios (acessível em Análises > Relatórios > Nova Exploração) tornou mais fácil o uso de dados na tomada de decisões para os lojistas ao criar uma linguagem de consulta acessível e focada em lojas Shopify: ShopifyQL.
+
+O ShopifyQL permite que lojistas da Shopify de todos os planos explorem seus dados com recursos avançados como:
+
+- Sintaxe simples e fácil de aprender.
+- Visualização de dados integrada em um único passo.
+- Comparações automáticas de períodos.
+- Funções de data específicas para o comércio.
+
+Aqui, vou abordar como o ShopifyQL torna a exploração de dados mais acessível, apresentaremos os recursos específicos para o comércio que incorporamos à linguagem e faremos uma demonstração com alguns exemplos de queries.
+
 ### Onde usar?
 
 Você pode usar o ShopifyQL com o novo Shopify Analytics para explorar o banco de dados da sua própria loja e recuperar os dados que oferecem uma compreensão mais aprofundada do seu negócio. Para recuperar seus dados em um formato significativo, uma consulta deve ser enviada ao banco de dados. Uma consulta é uma Query que solicita dados específicos como resposta, composta por palavras-chave e seus parâmetros correspondentes. A combinação de várias palavras-chave com parâmetros específicos constrói sua consulta. Após montar sua consulta, você pode executá-la e receber um relatório.
