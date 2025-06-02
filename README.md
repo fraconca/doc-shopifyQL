@@ -1,1 +1,1 @@
-# doc-shopifyQL
+# ShopifyQL
