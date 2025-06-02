@@ -38,7 +38,7 @@ Uma consulta é, essencialmente, uma pergunta que você faz ao banco de dados, f
 
 Exemplo simplificado de estrutura de query:
 
-'''FROM sales
+<code>FROM sales
   SHOW total_sales, customers
   WHERE day >= '2025-01-01' AND day <= '2025-06-02'
-  GROUP BY month'''
+  GROUP BY month</code>
